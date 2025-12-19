@@ -1,0 +1,14 @@
+# Build-output fra .NET
+bin/
+obj/
+
+# Rider / IDE-filer
+.idea/
+.vs/
+
+# Brugerspecifikke filer
+*.user
+*.suo
+
+# OS-filer
+.DS_Store
